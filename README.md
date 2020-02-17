@@ -49,4 +49,5 @@ TIF TVInput example:
 - android formal : https://github.com/googlesamples/androidtv-sample-inputs
 - CSDN : https://github.com/songwenju/TIFSample
 
-`<tv-input>`[](http://androidxref.com/9.0.0_r3/xref/frameworks/base/core/res/res/values/attrs.xml#8654) in the manifest of TVInput service
+`<tv-input>` in the manifest of TVInput service :  
+  　http://androidxref.com/9.0.0_r3/xref/frameworks/base/core/res/res/values/attrs.xml#8654 
