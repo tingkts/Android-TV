@@ -13,9 +13,9 @@
     https://developer.android.com/training/tv/tif/tvinput<br>
     https://developer.android.com/design/tv<br>
 
-- API reference :
+    - API reference :
 
-    https://developer.android.com/reference/android/media/tv/package-summary.html
+        https://developer.android.com/reference/android/media/tv/package-summary.html
 
 TIF companion library: https://bintray.com/google/tif-companion/tif-companion
 
